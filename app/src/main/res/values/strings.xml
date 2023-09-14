@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Week3</string>
+    <string name="register_now">
+        Dont have an account? <u>Register now</u>.
+    </string>
+    <string name="terms_condition">
+        By signing up, you are agree with our <u>Terms and Conditions</u>.
+    </string>
+    <string name="register_now2">
+        Dont have an account? <u><font color="#FD8C00">Register now</font></u>
+    </string>
+    <string name="terms_condition2">
+        By signing up, you are agree with our <u><font color="#FD8C00">Terms and Conditions</font></u>.
+    </string>
+</resources>
